@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gpconnect-demonstrator/static/css/main.a1e2115d.chunk.css",
+    "main.js": "/gpconnect-demonstrator/static/js/main.168dcb9a.chunk.js",
+    "main.js.map": "/gpconnect-demonstrator/static/js/main.168dcb9a.chunk.js.map",
+    "runtime-main.js": "/gpconnect-demonstrator/static/js/runtime-main.219c01d2.js",
+    "runtime-main.js.map": "/gpconnect-demonstrator/static/js/runtime-main.219c01d2.js.map",
+    "static/css/2.323789c3.chunk.css": "/gpconnect-demonstrator/static/css/2.323789c3.chunk.css",
+    "static/js/2.93c0ef4d.chunk.js": "/gpconnect-demonstrator/static/js/2.93c0ef4d.chunk.js",
+    "static/js/2.93c0ef4d.chunk.js.map": "/gpconnect-demonstrator/static/js/2.93c0ef4d.chunk.js.map",
+    "index.html": "/gpconnect-demonstrator/index.html",
+    "precache-manifest.2c2cf6c621a9096db01578f9396170ec.js": "/gpconnect-demonstrator/precache-manifest.2c2cf6c621a9096db01578f9396170ec.js",
+    "service-worker.js": "/gpconnect-demonstrator/service-worker.js",
+    "static/css/2.323789c3.chunk.css.map": "/gpconnect-demonstrator/static/css/2.323789c3.chunk.css.map",
+    "static/css/main.a1e2115d.chunk.css.map": "/gpconnect-demonstrator/static/css/main.a1e2115d.chunk.css.map",
+    "static/js/2.93c0ef4d.chunk.js.LICENSE": "/gpconnect-demonstrator/static/js/2.93c0ef4d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.219c01d2.js",
+    "static/css/2.323789c3.chunk.css",
+    "static/js/2.93c0ef4d.chunk.js",
+    "static/css/main.a1e2115d.chunk.css",
+    "static/js/main.168dcb9a.chunk.js"
+  ]
+}
